@@ -6,8 +6,8 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
   <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="100%" />
 </p>
 
-## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/
+## Live links 
+- Leaflet Map (https://sagesteppe.github.io/resumeStoryMap/#1)
 - Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/edit#gid=0
 
 ## Create Your Own

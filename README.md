@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links 
 - Leaflet Map (https://sagesteppe.github.io/resumeStoryMap/#1)
-- Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/edit#gid=0
+- Data entry (https://docs.google.com/spreadsheets/d/1UZQKIhkMuUKZVOXzDkNS83qdgEt3id9ls5CnH8wawkE/edit?gid=0#gid=0)  
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
